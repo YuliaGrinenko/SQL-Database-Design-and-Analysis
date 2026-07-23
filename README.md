@@ -94,5 +94,3 @@ Through this project I gained practical experience in:
 * Creating SQL tables with appropriate constraints.
 * Building relationships using primary and foreign keys.
 * Populating databases with sample data.
-* Applying database security and maintenance best practices.
-* Using MySQL Workbench to implement and manage databases.
