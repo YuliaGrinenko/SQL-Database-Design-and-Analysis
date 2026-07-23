@@ -1,8 +1,8 @@
 # SQL-Database-Design-and-Analysis
 
-# 🛒 Project 1: Corner Shop Database Design with SQL
+# Corner Shop Database Design with SQL
 
-## 📖 Project Overview
+## Project Overview
 
 This project was completed as part of a Level 3 Data Technician Skills Bootcamp.
 
@@ -12,7 +12,7 @@ The project demonstrates the full database development process, from analysing b
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Analyse business requirements for a retail database.
 * Design a relational database schema.
@@ -22,14 +22,14 @@ The project demonstrates the full database development process, from analysing b
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * **MySQL Workbench**
 * **SQL**
 
 ---
 
-## 🗂️ Database Structure
+## Database Structure
 
 The database consists of the following tables:
 
@@ -39,11 +39,11 @@ The database consists of the following tables:
 | **Customers**                                  | Stores customer details and loyalty points.                                    |
 | **Sales**                                      | Records each sales transaction.                                                |
 | **SaleItems**                                  | Stores individual products included in each sale.                              |
-| **LoyaltyTransactions** *(optional extension)* | Records loyalty points earned or redeemed by customers.                        |
+| **LoyaltyTransactions**                        | Records loyalty points earned or redeemed by customers.                        |
 
 ---
 
-## 🔗 Database Relationships
+##  Database Relationships
 
 The database uses a relational structure with primary and foreign keys to maintain data integrity.
 
@@ -56,7 +56,7 @@ Relationship int the database:
 
 ---
 
-## 📂 Example SQL
+## Example SQL
 
 ### Creating the database
 
@@ -86,7 +86,7 @@ VALUES
 ('Milk 2L', 'Grocery', 1.80, 40);
 ```
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project I gained practical experience in:
 
