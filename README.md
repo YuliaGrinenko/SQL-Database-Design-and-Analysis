@@ -49,13 +49,7 @@ The database consists of the following tables:
 
 The database uses a relational structure with primary and foreign keys to maintain data integrity.
 
-* One customer can have many sales.
-* One sale can contain multiple products.
-* One product can appear in many sales.
-* The many-to-many relationship between **Sales** and **Products** is resolved using the **SaleItems** junction table.
-* Customers can have multiple loyalty transactions.
-
-Relationship summary:
+Relationship int the database:
 
 * Customers → Sales *(One-to-Many)*
 * Sales → SaleItems *(One-to-Many)*
@@ -69,7 +63,7 @@ Relationship summary:
 ### Creating the database
 
 ```sql
-CREATE DATABASE CornerShopDB;
+CREATE DATABASE cornershopdb;
 ```
 
 ### Creating a table
