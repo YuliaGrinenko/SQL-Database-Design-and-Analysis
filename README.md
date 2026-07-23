@@ -4,7 +4,7 @@
 
 ## 📖 Project Overview
 
-This project was completed as part of a **Level 3 Data Technician Skills Bootcamp**.
+This project was completed as part of a Level 3 Data Technician Skills Bootcamp.
 
 The aim was to design and implement a relational database for a small retail business (corner shop) to improve the management of inventory, sales, customer information, and a loyalty programme.
 
@@ -19,7 +19,6 @@ The project demonstrates the full database development process, from analysing b
 * Create tables using SQL.
 * Define primary and foreign key relationships.
 * Populate the database with sample data.
-* Apply database best practices for maintenance and security.
 
 ---
 
@@ -27,7 +26,6 @@ The project demonstrates the full database development process, from analysing b
 
 * **MySQL Workbench**
 * **SQL**
-* **Git & GitHub**
 
 ---
 
