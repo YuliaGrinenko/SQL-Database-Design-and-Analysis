@@ -8,7 +8,7 @@ This project was completed as part of a Level 3 Data Technician Skills Bootcamp.
 
 The aim was to design and implement a relational database for a small retail business (corner shop) to improve the management of inventory, sales, customer information, and a loyalty programme.
 
-The project demonstrates the full database development process, from analysing business requirements and designing the database structure to creating tables, defining relationships, inserting sample data, and considering database maintenance and security.
+The project demonstrates the full database development process, from analysing business requirements and designing the database structure to creating tables, defining relationships, and inserting sample data.
 
 ---
 
