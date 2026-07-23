@@ -1,4 +1,3 @@
-# SQL-Database-Design-and-Analysis
 
 # Corner Shop Database Design with SQL
 
