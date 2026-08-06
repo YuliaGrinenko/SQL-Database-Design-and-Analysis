@@ -1,5 +1,5 @@
 
-# Project 1: Corner Shop Database Design with SQL
+# Corner Shop Database Design with SQL
 
 ## Project Overview
 
@@ -93,7 +93,3 @@ Through this project I gained practical experience in:
 * Creating SQL tables with appropriate constraints.
 * Building relationships using primary and foreign keys.
 * Populating databases with sample data.
-
-# Project 2: Chocolate Sales Database (SQL)
-
-Coming soon! I'm currently building my second portfolio project using MySQL. This project focuses on designing a relational database, writing SQL queries, and analysing sales data to answer real business questions. The completed project will include database creation scripts, exploratory analysis, business insights, and documentation.
